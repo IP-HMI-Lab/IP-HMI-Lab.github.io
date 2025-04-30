@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "智能感知与人机交互实验室 (IP&HMI Lab)"
+title: "智能感知与人机交互实验室 (IP&HMI Lab)简介"
 author_profile: true
 redirect_from: 
   - /about/

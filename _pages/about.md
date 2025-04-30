@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "智能感知与人机交互实验室 (IP&HMI Lab)"
 author_profile: true
 redirect_from: 
   - /about/
